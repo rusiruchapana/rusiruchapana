@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusiruchapana&label=Profile%20views&color=0e75b6&style=flat" alt="rusiruchapana" /> </p>
 
-- 🌱 I’m currently learning **Springboot, Python, React**
+- 🌱 I’m currently learning **Springboot, Angular**
 
 - 💬 Ask me about **Springboot.**
 
